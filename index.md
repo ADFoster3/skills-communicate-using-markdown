@@ -26,3 +26,6 @@ function calculateWinner(squares) {
   return null;
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
